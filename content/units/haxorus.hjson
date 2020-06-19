@@ -1,0 +1,15 @@
+type: GroundUnit
+name: Haxorus
+description: The laser is deadly.
+speed: 1
+flying: false
+health: 2500
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: galatic-laser
+  length: 1.5
+  reload: 2
+  alternate: true
+  bullet: lancerLaser
+}

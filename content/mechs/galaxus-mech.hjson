@@ -1,0 +1,16 @@
+name: Galaxus
+description: The galatical mech from galaxies.
+speed: 1
+boostSpeed: 1.5
+buildPower: 2
+engineColor: "666495"
+flying: false
+health: 1000
+weaponOffsetX: 4
+weapon: {
+  name: Galatical Cannon
+  length: 4.5
+  reload: 5
+  alternate: false
+  bullet: standardGlaive
+}
