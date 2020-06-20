@@ -1,0 +1,15 @@
+name: Hantarus Ship Pad
+description: Transform into the Hantarus Ship.
+type: MechPad
+mech: hantarus-ship
+size: 2
+consumes: {
+  power: 0.7
+}
+category: upgrade
+research: wraith-factory
+requirements: [
+  silver/100
+  silicon/150
+  graphite/50
+]
