@@ -1,0 +1,16 @@
+name: Galaxus
+description: The galatical mech from galaxies.
+speed: 1
+boostSpeed: 1.5
+buildPower: 2
+engineColor: "00a86b"
+flying: true
+health: 3000
+weaponOffsetX: 4
+weapon: {
+  name: haranus-blaster
+  length: 1.5
+  reload: 10
+  alternate: true
+  bullet: standardGlaive
+}

@@ -1,0 +1,6 @@
+type: material
+name: Jade
+description: A Rarest Crystal.
+hardness: 4
+cost: 8000
+color: 00a86b
