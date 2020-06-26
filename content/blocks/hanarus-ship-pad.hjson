@@ -2,7 +2,7 @@ name: Hanarus Ship Pad
 description: Transform into the Hantarus Ship.
 type: MechPad
 mech: hanarus
-size: 3
+size: 2
 consumes: {
   power: 0.7
 }
