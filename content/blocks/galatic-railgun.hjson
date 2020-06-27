@@ -22,7 +22,6 @@ ammo: {
     }
 }
 requirements: [
-  pyratite/40
   galatic-crystal/70
   thorium/10
 ]
