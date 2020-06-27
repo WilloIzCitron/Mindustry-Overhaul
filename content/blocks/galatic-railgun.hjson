@@ -1,0 +1,30 @@
+type: ArtilleryTurret
+name: Galatic Railgun
+description: the cannon is Too OP.
+health: 1000
+size: 2
+reload: 20
+range: 2000
+targetAir: true
+targetGround: true
+ammoUseEffect: shellEjectMedium
+inaccuracy: 10
+rotatespeed: 9
+ammo: {
+  pyratite: {
+    speed: 20
+    damage: 10000
+    bulletWidth: 6
+    bulletHeight: 10
+    shootEffect: ripple
+    smokeEffect: magmasmoke
+    ammoMultiplier: 5
+    }
+}
+requirements: [
+  pyratite/40
+  galatic-crystal/70
+  thorium/10
+]
+category: turret
+research: duo

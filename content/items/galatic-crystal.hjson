@@ -1,0 +1,6 @@
+type: material
+name: Galatic Crystal
+description: A Rarest Crystal than jade.
+hardness: 5
+cost: 8000
+color: FF4CD8

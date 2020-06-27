@@ -2,8 +2,8 @@ name: Hantarus
 description: The galatical fighter, the missile is deadly.
 speed: 1
 boostSpeed: 1.5
-buildPower: 2
-engineColor: "666495"
+buildPower: 1000
+engineColor: "0fff00"
 flying: true
 health: 1500
 weaponOffsetX: 3
