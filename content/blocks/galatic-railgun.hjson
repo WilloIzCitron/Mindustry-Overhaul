@@ -3,7 +3,7 @@ name: Galatic Railgun
 description: the cannon is Too OP.
 health: 1000
 size: 2
-reload: 20
+reload: 2
 range: 2000
 targetAir: true
 targetGround: true
