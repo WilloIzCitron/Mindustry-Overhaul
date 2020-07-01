@@ -20,6 +20,16 @@ ammo: {
     smokeEffect: magmasmoke
     ammoMultiplier: 5
     }
+   
+  coal: {
+    speed: 9
+    damage: 20000
+    bulletWidth: 6
+    bulletHeight: 10
+    shootEffect: ripple
+    smokeEffect: magmasmoke
+    ammoMultiplier: 10
+    }
 }
 requirements: [
   galatic-crystal/70
