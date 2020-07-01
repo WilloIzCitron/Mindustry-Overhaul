@@ -12,7 +12,7 @@ inaccuracy: 10
 rotatespeed: 9
 ammo: {
   pyratite: {
-    speed: 20
+    speed: 9
     damage: 10000
     bulletWidth: 6
     bulletHeight: 10
